@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body {
+	font-family: 'Lato', sans-serif;
+	max-width: 810px;
+	margin: 0 auto 50px auto;
+}
+
+.search {
+	font-size: 46px;
+	font-weight: 900;
+	color: #1E212C;
+	line-height: 130%;
+	padding: 28px 20px;
+	text-shadow: 2px 2px 10px #c608df;
+}
+
+img {
+	max-width: 100%;
+}
+
+.pictures {
+	margin-bottom: 60px;
+}
+
+.text-start {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: black;
+	margin-bottom: 24px;
+}
+
+
+.text-one {
+	color: gray;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	margin-bottom: 48px;
+}
+
+.text-one__one-text {
+	color: gray;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	margin-bottom: 48px;
+	padding-left: 48px;
+}
+
+.text-two {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: black;
+	margin-bottom: 48px;
+	padding-left: 48px;
+
+}
+
+.text-tree {
+	color: gray;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	margin-bottom: 24px;
+}
+
+.tempus {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: gray;
+	margin-bottom: 24px;
+	padding-left: 32px;
+}
+
+.text-four {
+	color: gray;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	padding-bottom: 50px;
+}
+
+.make__experiment-one {
+	max-width: 800px;
+	max-height: 150px;
+	overflow: auto;
+	background-color: aqua;
+	border: 1rem solid blueviolet;
+	border-radius: 7px;
+	padding-bottom: 30px;
+}
+
+.experiment {
+	display: block;
+	opacity: 0.7;
+	padding-top: 50px;
+}
+
+.button__one {
+	display: inline-block;
+	padding: 30px 10px;
+	color: white;
+	background-color: #860b0b;
+	border-radius: 4px;
+}
+
+.button__two {
+	display: inline-block;
+	padding: 30px 10px;
+	color: white;
+	background-color: rgb(19, 101, 168);
+	border-radius: 4px;
+}
+
+.button__three {
+	display: inline-block;
+	padding: 30px 10px;
+	color: white;
+	background-color: rgb(194, 32, 180);
+	border-radius: 4px;
+}
+
+.button__four {
+	display: inline-block;
+	padding: 30px 10px;
+	color: white;
+	background-color: rgb(138, 163, 190);
+	border-radius: 4px;
+}
+
+.button__five {
+	display: inline-block;
+	padding: 30px 10px;
+	color: white;
+	background-color: rgb(245, 10, 10);
+	border-radius: 4px;
+}
+
+.button__six {
+	display: inline-block;
+	padding: 30px 10px;
+	color: white;
+	background-color: rgb(58, 51, 52);
+	border-radius: 4px;
+}
+
+.button__seven {
+	display: inline-block;
+	padding: 30px 5px;
+	color: white;
+	background-color: rgb(15, 2, 61);
+	border-radius: 4px;
+}
+
+.new {
+	padding: 10% 45%;
+}
+
+.again {
+	font-size: 30px;
+	border: 3px solid green;
+	background-color: #d8dce9;
+	display: inline-block;
+	padding: 50px 30px;
+	text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+	border-radius: 30px;
+}
